@@ -1,12 +1,9 @@
 ---
 description: Adobe Experience Cloud Library är en universell och centraliserad upplevelse för att lagra, hitta och välja resurser i alla Adobe Experience Cloud-lösningar.
-seo-description: Adobe Experience Cloud Library är en universell och centraliserad upplevelse för att lagra, hitta och välja resurser i alla Adobe Experience Cloud-lösningar.
-seo-title: Adobe Experience Cloud-bibliotek
-solution: Experience Manager
 title: Adobe Experience Cloud-bibliotek
 uuid: 507e28c7-d8b7-42ac-82d4-caf7c16bdd3b
 translation-type: tm+mt
-source-git-commit: 2bcf89a108df9360476478703a36ad7783b736db
+source-git-commit: 12f34b6ab4e0e95356e1824af9bf37561e19b2b6
 
 ---
 
