@@ -3,17 +3,16 @@ description: Adobe Experience Cloud Library är en universell och centraliserad 
 title: Adobe Experience Cloud-bibliotek
 uuid: 507e28c7-d8b7-42ac-82d4-caf7c16bdd3b
 translation-type: tm+mt
-source-git-commit: 12f34b6ab4e0e95356e1824af9bf37561e19b2b6
+source-git-commit: 667da5bf636cb4e005ecf84b33e9f3baf46aa54f
 
 ---
 
 
 # Adobe Experience Cloud-bibliotek{#adobe-experience-cloud-library}
 
-Adobe Experience Cloud Library är en universell och centraliserad upplevelse för att lagra, hitta och välja resurser i alla Adobe Experience Cloud-lösningar.
+Från om med mars 2020 har Adobe officiellt ersatt Adobe Experience Cloud Library. Den är inte längre tillgänglig för åtkomst.
 
-## Populära ämnen
+**Relaterade funktioner**
 
-* [Importera innehåll](/help/c-library-about/c-importing-and-uploading/c-importing-and-uploading.md)
-* Söka efter innehåll med [sökning](/help/c-library-about/c-assets/c-search-for-assets.md) eller [filtrering](/help/c-library-about/c-assets/c-filter-assets.md)
-* [Se information om en resurs](/help/c-library-about/c-assets/c-view-detailed-information-for-an-asset.md)
+* [Experience Cloud Assets](https://docs.adobe.com/content/help/en/core-services/interface/assets/experience-cloud-assets.html)
+* [AEM Assets](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/home.html)
