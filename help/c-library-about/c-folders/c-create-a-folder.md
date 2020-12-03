@@ -7,6 +7,9 @@ title: Skapa en mapp
 uuid: 6651be0e-262a-4f9c-b0c6-adec3a4e2178
 translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '69'
+ht-degree: 1%
 
 ---
 
