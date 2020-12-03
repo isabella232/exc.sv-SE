@@ -1,25 +1,28 @@
 ---
-description: Importera filer från Creative Cloud till Adobe Experience Cloud-biblioteket för att hantera dem från alla Adobe Experience Cloud-produkter.
-seo-description: Importera filer från Creative Cloud till Adobe Experience Cloud-biblioteket för att hantera dem från alla Adobe Experience Cloud-produkter.
+description: Importera filer från Creative Cloud till Adobe Experience Cloud Library för att hantera dem från valfri Adobe Experience Cloud-produkt.
+seo-description: Importera filer från Creative Cloud till Adobe Experience Cloud Library för att hantera dem från valfri Adobe Experience Cloud-produkt.
 seo-title: Importera Creative Cloud-filer till Adobe Experience Cloud-biblioteket
 solution: Experience Manager
 title: Importera Creative Cloud-filer till Adobe Experience Cloud-biblioteket
 uuid: 184632df-7084-4db8-a4d6-c372ab9764c9
 translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '166'
+ht-degree: 3%
 
 ---
 
 
 # Importera Creative Cloud-filer till Adobe Experience Cloud-biblioteket{#import-creative-cloud-files-into-the-adobe-experience-cloud-library}
 
-Importera filer från Creative Cloud till Adobe Experience Cloud-biblioteket för att hantera dem från alla Adobe Experience Cloud-produkter.
+Importera filer från Creative Cloud till Adobe Experience Cloud Library för att hantera dem från valfri Adobe Experience Cloud-produkt.
 
 >[!NOTE]
 >
 >Du måste skapa en mapp innan du kan utföra den här uppgiften.
 
-Så här importerar du Creative Cloud-filer till Experience Cloud-biblioteket:
+Så här importerar du Creative Cloud-filer till biblioteket Experience Cloud:
 
 1. Välj **[!UICONTROL New]** > **[!UICONTROL Import]**.
 
