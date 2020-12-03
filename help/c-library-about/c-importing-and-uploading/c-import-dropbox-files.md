@@ -1,25 +1,28 @@
 ---
-description: Importera filer från Dropbox till Adobe Experience Cloud-biblioteket för att hantera dem från alla Adobe Experience Cloud-produkter.
-seo-description: Importera filer från Dropbox till Adobe Experience Cloud-biblioteket för att hantera dem från alla Adobe Experience Cloud-produkter.
+description: Importera filer från Dropbox till Adobe Experience Cloud Library för att hantera dem från valfri Adobe Experience Cloud-produkt.
+seo-description: Importera filer från Dropbox till Adobe Experience Cloud Library för att hantera dem från valfri Adobe Experience Cloud-produkt.
 seo-title: Importera Dropbox-filer till Adobe Experience Cloud-biblioteket
 solution: Experience Manager
 title: Importera Dropbox-filer till Adobe Experience Cloud-biblioteket
 uuid: 4b688762-02ee-4718-9da8-55b9a59c5ff6
 translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '158'
+ht-degree: 3%
 
 ---
 
 
 # Importera Dropbox-filer till Adobe Experience Cloud-biblioteket{#import-dropbox-files-into-the-adobe-experience-cloud-library}
 
-Importera filer från Dropbox till Adobe Experience Cloud-biblioteket för att hantera dem från alla Adobe Experience Cloud-produkter.
+Importera filer från Dropbox till Adobe Experience Cloud Library för att hantera dem från valfri Adobe Experience Cloud-produkt.
 
 >[!NOTE]
 >
 >Du måste skapa en mapp innan du kan utföra den här uppgiften.
 
-Så här importerar du Dropbox-filer till Experience Cloud-biblioteket:
+Så här importerar du Dropbox-filer till biblioteket Experience Cloud:
 
 1. Välj **[!UICONTROL New]** > **[!UICONTROL Import]**.
 
