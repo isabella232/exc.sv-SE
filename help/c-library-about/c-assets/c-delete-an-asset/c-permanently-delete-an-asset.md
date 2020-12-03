@@ -7,6 +7,9 @@ title: Ta bort en trasig resurs permanent
 uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
 translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 Du kan ta bort en trasig resurs permanent i Adobe Experience Cloud-biblioteket.
 
-När du papperskorgar ett objekt finns det i området för streckade objekt i Experience Cloud-biblioteket i 60 dagar. Om du inte återställer objekt tas de bort permanent efter 60 dagar.
+När du papperskorgar ett objekt finns det i området för streckade objekt i Experience Cloud-biblioteket i 60 dagar. Om du inte återställer objekt tas de bort permanent i Experience Cloud efter 60 dagar.
 
 Du kan ta bort en trasig resurs permanent tidigare än 60 dagar genom att:
 
