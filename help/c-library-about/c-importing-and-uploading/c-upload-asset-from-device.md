@@ -7,6 +7,9 @@ title: Överför resurs från enhet
 uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
 translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '93'
+ht-degree: 1%
 
 ---
 
@@ -15,13 +18,13 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 Överför resurser från din enhet för att hantera dem i Adobe Experience Cloud-biblioteket.
 
-Så här överför du resurser från din enhet till Experience Cloud-biblioteket:
+Så här överför du resurser från enheten till biblioteket Experience Cloud:
 
 1. Välj **[!UICONTROL New]** > **[!UICONTROL Upload]**.
 
    ![](assets/library_new_folder_upload.png)
 
-1. Välj de resurser som ska överföras till Experience Cloud-biblioteket.
+1. Markera de resurser som ska överföras till Experience Cloud-biblioteket.
 
    ![](assets/library_upload_assets_device.png)
 
