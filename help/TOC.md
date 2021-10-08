@@ -1,10 +1,7 @@
 ---
-cloud: Experience Cloud
-product: adobe experience cloud
 audience: end-user
 user-guide-title: Hjälp för Experience Cloud Library
-translation-type: tm+mt
-source-git-commit: 57493b674fb5cce16291e881596cc3449bbc1665
+source-git-commit: 6db89e7ff9957afb7749ca4e8ccd5ca6dd9aca33
 workflow-type: tm+mt
 source-wordcount: '12'
 ht-degree: 0%
@@ -12,6 +9,6 @@ ht-degree: 0%
 ---
 
 
-# Hjälp om Experience Cloud-bibliotek {#using}
+# Hjälp för Experience Cloud Library {#using}
 
 + [Adobe Experience Cloud Library](c-library-about/overview.md)
