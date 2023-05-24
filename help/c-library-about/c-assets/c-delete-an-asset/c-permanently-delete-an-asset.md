@@ -1,14 +1,13 @@
 ---
 description: Du kan ta bort en trasig resurs permanent i Adobe Experience Cloud-biblioteket.
-seo-description: Du kan ta bort en trasig resurs permanent i Adobe Experience Cloud-biblioteket.
-seo-title: Ta bort en trasig resurs permanent
+seo-description: You can permanently delete a trashed asset in the Adobe Experience Cloud Library.
+seo-title: Permanently Delete a Trashed Asset
 solution: Experience Manager
 title: Ta bort en trasig resurs permanent
 uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---

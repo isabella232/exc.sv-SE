@@ -1,14 +1,13 @@
 ---
 description: Du kan återställa en resurs som du har sparat i Adobe Experience Cloud-biblioteket.
-seo-description: Du kan återställa en resurs som du har sparat i Adobe Experience Cloud-biblioteket.
-seo-title: Återställa en trasig resurs
+seo-description: You can restore an asset you trashed in the Adobe Experience Cloud Library.
+seo-title: Restore a Trashed Asset
 solution: Experience Manager
 title: Återställa en trasig resurs
 uuid: 5cf60e36-99fb-4335-af9d-2224342c382b
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---

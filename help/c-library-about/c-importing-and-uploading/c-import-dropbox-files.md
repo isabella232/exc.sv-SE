@@ -1,14 +1,13 @@
 ---
 description: Importera filer från Dropbox till Adobe Experience Cloud Library för att hantera dem från valfri Adobe Experience Cloud-produkt.
-seo-description: Importera filer från Dropbox till Adobe Experience Cloud Library för att hantera dem från valfri Adobe Experience Cloud-produkt.
-seo-title: Importera Dropbox-filer till Adobe Experience Cloud-biblioteket
+seo-description: Import files from Dropbox into the Adobe Experience Cloud Library to manage them from any Adobe Experience Cloud product.
+seo-title: Import Dropbox Files into the Adobe Experience Cloud Library
 solution: Experience Manager
 title: Importera Dropbox-filer till Adobe Experience Cloud-biblioteket
 uuid: 4b688762-02ee-4718-9da8-55b9a59c5ff6
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '130'
 ht-degree: 3%
 
 ---

@@ -1,14 +1,13 @@
 ---
 description: Du kan spara en mapp i Adobe Experience Cloud Library.
-seo-description: Du kan spara en mapp i Adobe Experience Cloud Library.
-seo-title: Skräp en mapp
+seo-description: You can trash a folder in the Adobe Experience Cloud Library.
+seo-title: Trash a Folder
 solution: Experience Manager
 title: Skräp en mapp
 uuid: 0e1c5ef2-188e-4012-92db-900b9d5732cf
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
